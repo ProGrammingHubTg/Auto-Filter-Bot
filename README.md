@@ -133,14 +133,19 @@ Use these settings when adding a monitor:</b>
 </details>
 <details><summary>Deploy To VPS</summary>
 <br>
+<br>
 - Build the Docker Image:
 ```
 sudo docker build -t auto-filter-bot .
 ```
+<br>
+<br>
 - Run the Docker Container as Web App:
 ```
 sudo docker run -d -p 80:80 --name Auto-Filter-Bot auto-filter-bot
 ```
+<br>
+<br>
 </details>
 
 ## Support

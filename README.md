@@ -135,12 +135,16 @@ Use these settings when adding a monitor:</b>
 <br>
 <br>
 - Build the Docker Image:
+<br>
+<br>
 ```
 sudo docker build -t auto-filter-bot .
 ```
 <br>
 <br>
 - Run the Docker Container as Web App:
+<br>
+<br>
 ```
 sudo docker run -d -p 80:80 --name Auto-Filter-Bot auto-filter-bot
 ```

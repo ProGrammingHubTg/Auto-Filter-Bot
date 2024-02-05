@@ -88,6 +88,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
+<b>Click the button below to deploy bot on Heroku.</b>
 <a href="https://heroku.com/deploy?template=https://github.com/HA-Bots/Auto-Filter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
@@ -96,7 +97,7 @@
 
 <details><summary>Deploy To Koyeb</summary>
 <br>
-<b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
+<b>Click the Deploy to Koyeb button below.</b>
 <br>
 <br>
 
@@ -115,16 +116,7 @@ Use these commands:
 • Start Command: <code>python3 bot.py</code>
 <br>
 <br>
-Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
-<br>
-<br>
-Use these settings when adding a monitor:</b>
-<br>
-<br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
-<br>
-<br>
-<b>Click on the below button to deploy directly to render ↓</b>
+<b>Click on the below button to deploy on render.</b>
 <br>
 <br>
 <a href="https://render.com/deploy?repo=https://github.com/HA-Bots/Auto-Filter-Bot/tree/main">
